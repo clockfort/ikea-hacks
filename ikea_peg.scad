@@ -50,5 +50,5 @@ module ikea_peg(x, y, z) {
 }
 
 ikea_peg(0,0,0);
-// test base to make it easy to hold while 
+// test base to make it easy to hold while testing physical fit
 //translate([0,0,-1.5]) { cube([9,9,3], center=true); }
